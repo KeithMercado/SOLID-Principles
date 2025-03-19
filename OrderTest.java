@@ -1,5 +1,6 @@
 public class OrderTest {
     public static void main(String[] args) {
+        
         TotalCalculator totalCalculator = new MainOrder();
         OrderPlacer orderPlacer = new MainOrder();
         InvoiceGenerator invoiceGenerator = new SubOrder();

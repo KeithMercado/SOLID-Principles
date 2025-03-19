@@ -1,4 +1,6 @@
-Improve the following codes to implement SOLID principles in OOP.
+# SOLID-Principles
+
+**Improve the following codes to implement SOLID principles in OOP.**
 
 
 public interface Order {
@@ -52,4 +54,4 @@ public class OrderTest {
   }
 }
 
-![alt text](image.png)
+![alt text](image-1.png)

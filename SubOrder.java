@@ -7,5 +7,6 @@ public class SubOrder implements InvoiceGenerator, EmailNotifier {
     @Override
     public void sendEmailNotification(String email) {
         System.out.println("Email notification sent to: " + email);
+        
     }
 }
